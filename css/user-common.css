@@ -78,3 +78,9 @@ button.button-third {
 button.button-fourth {
   background-color: #D11900;
 }
+
+#title {
+  color: #fff;
+  text-align: center;
+  font-family: Bungee, cursive;
+}
