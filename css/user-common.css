@@ -8,7 +8,12 @@ div#logo-wrapper {
     padding:0;
 }
 
-img .logo {
+#logo {
+    width: 100%;
+    display: inline;
+}
+
+#logo2 {
     width: 100%;
     display: inline;
 }
